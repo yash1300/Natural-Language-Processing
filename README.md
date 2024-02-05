@@ -11,11 +11,11 @@ This file contains the practica implementation of some of basic topics or concep
 <li>Lemmatization</li>
 <li>stopwords</li>
 <br>
-and also used some llibraries like sklearn and nltk.
+and also used some llibraries like SKLEARN and NLTK
 <br>
 <hr>
 
 NLP - 2:
 
 This file contains the practical implementation of TF-IDF i.e Term frequency inverse document frequency.
-In this we vectorize the value i.e convert it to 0 and 1 as per need
+In this we vectorize the value i.e convert it to 0 and 1 as per need using the TfidfVectorizer from SKLEARN library.
