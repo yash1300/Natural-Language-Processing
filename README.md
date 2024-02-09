@@ -19,3 +19,9 @@ NLP - 2:
 
 This file contains the practical implementation of TF-IDF i.e Term frequency inverse document frequency.
 In this we vectorize the value i.e convert it to 0 and 1 as per need using the <strong>TfidfVectorizer</strong> from SKLEARN library.
+<br>
+<hr>
+
+NLP - 3:
+
+This file is copied from interent as i wasnt able to perform that operation on my machine but have understood each concept related to that.
